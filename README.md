@@ -23,6 +23,8 @@ This document explains how to replicate the data splits used in the paper: <a hr
 
 This repository is a submodule of ["Facial-Age-Estimation-Benchmark"](https://github.com/paplhjak/Facial-Age-Estimation-Benchmark).
 
+**Important:** Due to limitations of git LFS, we recommend downloading the files from https://paplham.cloud/index.php/s/KSkaSPF7Btay2cb
+
 ## Prerequisites
 
 In order to replicate our data splits, we need to understand the structure of two file types, `databases` and `benchmarks`.
