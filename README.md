@@ -15,11 +15,11 @@
 
 <div>
   <p align="center">
-  arXiv: <a href="https://arxiv.org/abs/2307.04570">Unraveling the Age Estimation Puzzle: Comparative Analysis of Deep Learning Approaches for Facial Age Estimation</a>
+  arXiv: <a href="https://arxiv.org/abs/2307.04570">A Call to Reflect on Evaluation Practices for Age Estimation: Comparative Analysis of the State-of-the-Art and a Unified Benchmark</a>
   </p>
 </div>
 
-This document explains how to replicate the data splits used in the paper: <a href="https://arxiv.org/abs/2307.04570">Unraveling the Age Estimation Puzzle: Comparative Analysis of Deep Learning Approaches for Facial Age Estimation</a>.
+This document explains how to replicate the data splits used in the paper: <a href="https://arxiv.org/abs/2307.04570">A Call to Reflect on Evaluation Practices for Age Estimation: Comparative Analysis of the State-of-the-Art and a Unified Benchmark</a>.
 
 This repository is a submodule of ["Facial-Age-Estimation-Benchmark"](https://github.com/paplhjak/Facial-Age-Estimation-Benchmark).
 
