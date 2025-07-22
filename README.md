@@ -151,3 +151,6 @@ The attribute `age` denotes the number of completed years (revolutions of the su
 ## Gender
 
 The attribute `gender` denotes the biological gender as defined by the source datasets: `'M'` stand for male; `'F'` stands for female; `'U'` means unknown gender.
+
+## License
+The code used to create the database JSONs is released under the MIT License. The annotations themselves adhere to the original licenses of the dataset creators.
